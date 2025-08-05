@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "First blog post",
+    "cover": "https://placehold.co/600x400",
+    "author": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "Second blog post",
+    "cover": "https://placehold.co/600x400",
+    "author": "John Doe"
+  }
+]
